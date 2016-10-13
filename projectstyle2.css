@@ -3,11 +3,13 @@
 }
 
 #sanMiguel{
+margin-top:0px;
 background-color:#FF3B40;
 font-family:'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-size:20px;
+font-size:20px;
+color:fff;
 }
 .ban{
-	margin:auto;
+	text-align:center;
 	font-weight:900;	
 }
