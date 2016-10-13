@@ -1,4 +1,6 @@
-
+#grad{
+width:100%;
+}
 .jumbotron{
 	height: 180px;
    background-image: url("pro.png");
